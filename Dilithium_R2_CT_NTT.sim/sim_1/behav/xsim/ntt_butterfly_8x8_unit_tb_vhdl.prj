@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/c_sub_51_bit_1/sim/c_sub_51_bit.vhd" \
+"../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_27_bit_1/sim/mult_gen_27_bit.vhd" \
+"../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_49_bit_1/sim/mult_gen_49_bit.vhd" \
+"../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/c_add_0_1/sim/c_add_0.vhd" \
+"../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_0_1/sim/mult_gen_0.vhd" \
+
+# Do not sort compile order
+nosort

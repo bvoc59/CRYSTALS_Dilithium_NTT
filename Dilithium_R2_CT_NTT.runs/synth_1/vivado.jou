@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Apr 18 23:39:48 2023
+# Process ID: 20992
+# Current directory: C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.runs/synth_1
+# Command line: vivado.exe -log Dilithium_R2_CT_NTT_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Dilithium_R2_CT_NTT_top.tcl
+# Log file: C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.runs/synth_1/Dilithium_R2_CT_NTT_top.vds
+# Journal file: C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Dilithium_R2_CT_NTT_top.tcl -notrace

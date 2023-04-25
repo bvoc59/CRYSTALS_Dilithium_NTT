@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/clk_mmcm_wiz_1" \
+"../../../../Dilithium_R2_CT_NTT.srcs/sources_1/new/barret.v" \
+"../../../../Dilithium_R2_CT_NTT.srcs/sources_1/new/ntt_butterfly_8x8.v" \
+"../../../../Dilithium_R2_CT_NTT.srcs/sim_1/new/ntt_butterfly_8x8_unit_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a200tfbg676-2" LaunchTime="1681875586">
+  <File Type="PA-TCL" Name="Dilithium_R2_CT_NTT_top.tcl"/>
+  <File Type="REPORTS-TCL" Name="Dilithium_R2_CT_NTT_top_reports.tcl"/>
+  <File Type="RDS-RDS" Name="Dilithium_R2_CT_NTT_top.vds"/>
+  <File Type="RDS-UTIL" Name="Dilithium_R2_CT_NTT_top_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="Dilithium_R2_CT_NTT_top_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="Dilithium_R2_CT_NTT_top.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/CT_radix_2_ntt_core.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/CT_radix_2_ntt_core.v"/>
+        <Attr Name="ImportTime" Val="1681856030"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/barret.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/barret.v"/>
+        <Attr Name="ImportTime" Val="1680933603"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_butterfly_128x128.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/ntt_butterfly_128x128.v"/>
+        <Attr Name="ImportTime" Val="1681248741"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_butterfly_16x16.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/ntt_butterfly_16x16.v"/>
+        <Attr Name="ImportTime" Val="1681248524"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_butterfly_256x256.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/ntt_butterfly_256x256.v"/>
+        <Attr Name="ImportTime" Val="1681248816"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_butterfly_2x2.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/ntt_butterfly_2x2.v"/>
+        <Attr Name="ImportTime" Val="1681248327"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_butterfly_32x32.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/ntt_butterfly_32x32.v"/>
+        <Attr Name="ImportTime" Val="1681248563"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_butterfly_4x4.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/ntt_butterfly_4x4.v"/>
+        <Attr Name="ImportTime" Val="1681248401"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_butterfly_64x64.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/ntt_butterfly_64x64.v"/>
+        <Attr Name="ImportTime" Val="1681248651"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_butterfly_8x8.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Dilithium_CT_NTT/Dilithium_CT_NTT.srcs/sources_1/new/ntt_butterfly_8x8.v"/>
+        <Attr Name="ImportTime" Val="1681248471"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_core_demux.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ntt_core_mux.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Dilithium_R2_CT_NTT_top.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Dilithium_R2_CT_NTT_top"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2021"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="clk_mmcm_wiz"/>
+  <BlockFileSet Type="BlockSrcs" Name="mult_gen_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="c_add_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="c_sub_51_bit"/>
+  <BlockFileSet Type="BlockSrcs" Name="mult_gen_27_bit"/>
+  <BlockFileSet Type="BlockSrcs" Name="mult_gen_49_bit"/>
+</GenRun>

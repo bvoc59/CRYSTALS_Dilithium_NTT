@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/c_sub_51_bit_1/sim/c_sub_51_bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'c_sub_51_bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_27_bit_1/sim/mult_gen_27_bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mult_gen_27_bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_49_bit_1/sim/mult_gen_49_bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mult_gen_49_bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/c_add_0_1/sim/c_add_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'c_add_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_0_1/sim/mult_gen_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mult_gen_0'

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Apr 18 23:37:56 2023
+# Process ID: 14816
+# Current directory: C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.runs/mult_gen_49_bit_synth_1
+# Command line: vivado.exe -log mult_gen_49_bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mult_gen_49_bit.tcl
+# Log file: C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.runs/mult_gen_49_bit_synth_1/mult_gen_49_bit.vds
+# Journal file: C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.runs/mult_gen_49_bit_synth_1\vivado.jou
+#-----------------------------------------------------------
+source mult_gen_49_bit.tcl -notrace

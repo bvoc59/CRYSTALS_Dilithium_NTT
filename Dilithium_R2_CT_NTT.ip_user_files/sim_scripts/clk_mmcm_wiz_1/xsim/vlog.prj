@@ -1,0 +1,7 @@
+verilog xil_defaultlib --include "../../../ipstatic" \
+"../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/clk_mmcm_wiz_1/clk_mmcm_wiz_clk_wiz.v" \
+"../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/clk_mmcm_wiz_1/clk_mmcm_wiz.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

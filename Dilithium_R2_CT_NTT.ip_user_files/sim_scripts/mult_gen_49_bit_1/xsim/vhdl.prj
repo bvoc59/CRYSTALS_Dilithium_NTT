@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_49_bit_1/sim/mult_gen_49_bit.vhd" \
+
+nosort

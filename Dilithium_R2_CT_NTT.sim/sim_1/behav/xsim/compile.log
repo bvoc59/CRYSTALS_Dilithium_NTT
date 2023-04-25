@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.srcs/sources_1/new/barret.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module barret
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.srcs/sources_1/new/ntt_butterfly_8x8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ntt_butterfly_8x8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.srcs/sim_1/new/ntt_butterfly_8x8_unit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ntt_butterfly_8x8_unit_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/c_sub_51_bit_1/sim/c_sub_51_bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'c_sub_51_bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_27_bit_1/sim/mult_gen_27_bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mult_gen_27_bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_49_bit_1/sim/mult_gen_49_bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mult_gen_49_bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/c_add_0_1/sim/c_add_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'c_add_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_0_1/sim/mult_gen_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mult_gen_0'

@@ -1,0 +1,4 @@
+xbip_utils_v3_0_vh_rfs.vhd,vhdl,xbip_utils_v3_0_10,../../../ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd,
+xbip_pipe_v3_0_vh_rfs.vhd,vhdl,xbip_pipe_v3_0_6,../../../ipstatic/hdl/xbip_pipe_v3_0_vh_rfs.vhd,
+c_sub_51_bit.vhd,vhdl,xil_defaultlib,../../../../Dilithium_R2_CT_NTT.gen/sources_1/ip/c_sub_51_bit_1/sim/c_sub_51_bit.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

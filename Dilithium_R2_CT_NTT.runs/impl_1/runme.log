@@ -1,0 +1,49 @@
+
+*** Running vivado
+    with args -log Dilithium_R2_CT_NTT_top.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source Dilithium_R2_CT_NTT_top.tcl -notrace
+
+
+
+****** Vivado v2021.1 (64-bit)
+  **** SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+  **** IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+    ** Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+source Dilithium_R2_CT_NTT_top.tcl -notrace
+Command: link_design -top Dilithium_R2_CT_NTT_top -part xc7a200tfbg676-2
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Device 21-403] Loading part xc7a200tfbg676-2
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/clk_mmcm_wiz_1/clk_mmcm_wiz.dcp' for cell 'clk_mmcm_wizi'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/c_add_0_1/c_add_0.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/c_add_0i'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_0_1/mult_gen_0.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/mult_gen_0i'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/c_sub_51_bit_1/c_sub_51_bit.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/barret_0i/c_sub_51_biti0'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_27_bit_1/mult_gen_27_bit.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/barret_0i/mult_gen_27_biti'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_49_bit_1/mult_gen_49_bit.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/barret_0i/mult_gen_49_biti'
+Netlist sorting complete. Time (s): cpu = 00:02:14 ; elapsed = 00:02:16 . Memory (MB): peak = 11048.152 ; gain = 1263.660
+INFO: [Netlist 29-17] Analyzing 1156297 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 138 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2021.1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+*** Running vivado
+    with args -log Dilithium_R2_CT_NTT_top.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source Dilithium_R2_CT_NTT_top.tcl -notrace
+
+
+
+****** Vivado v2021.1 (64-bit)
+  **** SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+  **** IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+    ** Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+source Dilithium_R2_CT_NTT_top.tcl -notrace
+Command: link_design -top Dilithium_R2_CT_NTT_top -part xc7a200tfbg676-2
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Device 21-403] Loading part xc7a200tfbg676-2
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/clk_mmcm_wiz_1/clk_mmcm_wiz.dcp' for cell 'clk_mmcm_wizi'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/c_add_0_1/c_add_0.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/c_add_0i'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_0_1/mult_gen_0.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/mult_gen_0i'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/c_sub_51_bit_1/c_sub_51_bit.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/barret_0i/c_sub_51_biti0'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_27_bit_1/mult_gen_27_bit.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/barret_0i/mult_gen_27_biti'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/bvoc5/CRYSTALS_NTT/Dilithium_R2_CT_NTT/Dilithium_R2_CT_NTT.gen/sources_1/ip/mult_gen_49_bit_1/mult_gen_49_bit.dcp' for cell 'CT_radix2_ntt_corei/ntt_butterfly_128x128_0/barret_0i/mult_gen_49_biti'
